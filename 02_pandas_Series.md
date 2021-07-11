@@ -16,7 +16,7 @@
 - index는 명시하지 않으면 0 부터 자동 생성
 - 2개 이상의 값 입력시 리스트/튜플/딕셔너리 형태로 입력
 
-![image-20210711184855605](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711184855605.png)
+![image-20210711184855605](picture\image-20210711184855605.png)
 
 ----
 
@@ -26,7 +26,7 @@
 
 
 
-![image-20210711185134093](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711185134093.png)
+![image-20210711185134093](picture\image-20210711185134093.png)
 
 ---
 
@@ -37,7 +37,7 @@
 - 결측값 : 값이 정해지지 않은 상태로 NULL의 의미
   - 결측값이 NaN은 numpy의 na.nan으로 생성 가능
 
-![image-20210711185532069](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711185532069.png)
+![image-20210711185532069](picture\image-20210711185532069.png)
 
 ---
 
@@ -49,7 +49,7 @@
 - 숫자 인덱스 지정.문자 인덱스 지정
 - 변수 = pd.Series([값1, 값2, ....], index = [인덱스1, 인덱스2, ...])
 
-![image-20210711185912059](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711185912059.png)
+![image-20210711185912059](picture\image-20210711185912059.png)
 
 ---
 
@@ -57,7 +57,7 @@
 
 - Series index의 name 설정 가능
 
-![image-20210711190158324](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711190120677.png)
+![image-20210711190158324](picture\image-20210711190120677.png)
 
 ---
 
@@ -157,3 +157,4 @@
 ![image-20210711194922583](picture/image-20210711194922583.png)
 
 ![image-20210711194949870](picture/image-20210711194949870.png)
+
