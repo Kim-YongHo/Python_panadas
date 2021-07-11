@@ -26,7 +26,7 @@
 
 
 
-![image-20210711185134093](picture\image-20210711185134093.png)
+![image-20210711185134093](picture/image-20210711185134093.png)
 
 ---
 
@@ -37,7 +37,7 @@
 - 결측값 : 값이 정해지지 않은 상태로 NULL의 의미
   - 결측값이 NaN은 numpy의 na.nan으로 생성 가능
 
-![image-20210711185532069](picture\image-20210711185532069.png)
+![image-20210711185532069](picture/image-20210711185532069.png)
 
 ---
 
@@ -49,7 +49,7 @@
 - 숫자 인덱스 지정.문자 인덱스 지정
 - 변수 = pd.Series([값1, 값2, ....], index = [인덱스1, 인덱스2, ...])
 
-![image-20210711185912059](picture\image-20210711185912059.png)
+![image-20210711185912059](picture/image-20210711185912059.png)
 
 ---
 
@@ -57,7 +57,7 @@
 
 - Series index의 name 설정 가능
 
-![image-20210711190158324](picture\image-20210711190120677.png)
+![image-20210711190158324](picture/image-20210711190120677.png)
 
 ---
 
@@ -76,7 +76,7 @@
 
 ![image-20210711191030583](picture/image-20210711191030583.png)
 
-![image-20210711191303433](../../../AppData/Roaming/Typora/typora-user-images/image-20210711191303433.png)
+![image-20210711230615508](picture/image-20210711230615508.png)
 
 ---
 
