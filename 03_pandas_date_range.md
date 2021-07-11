@@ -15,4 +15,4 @@
 
 ![image-20210711200953386](picture/image-20210711200953386.png)
 
-![image-20210711201247009](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711201247009.png)
+![image-20210711201247009](picture/image-20210711201247009.png)
