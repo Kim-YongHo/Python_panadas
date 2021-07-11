@@ -5,7 +5,7 @@
   - 여러 개의 Series가 모여 있는 집합
 - DataFrame 때문에 pandas를 사용
 
-![image-20210711202126024](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711202126024.png)
+![image-20210711202126024](picture/image-20210711202126024.png)
 
 ---
 
@@ -17,9 +17,9 @@
 - 리스트 리스트로 묶어서 입력하면 동일한 행으로 입력됨 (행으로 들어감)
 - pd.DataFrame([입력값], [인덱스], [컬럼])
 
-![image-20210711202249000](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711202249000.png)
+![image-20210711202249000](picture/image-20210711202249000.png)
 
-![image-20210711202524153](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711202524153.png)
+![image-20210711202524153](picture/image-20210711202524153.png)
 
 ---
 
@@ -30,9 +30,9 @@
 - dict의 key -> column name 생성
 - dict item은 데이터프레임의 column으로 정의
 
-![image-20210711203003847](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711203003847.png)
+![image-20210711203003847](picture/image-20210711203003847.png)
 
-![image-20210711203037964](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711203037964.png)
+![image-20210711203037964](picture/image-20210711203037964.png)
 
 ---
 
@@ -44,7 +44,7 @@
     - Series를 리스트 형식으로 묶어서 생성할 경우 Serises가 행 단위로 입력됨
   - 시리즈의 인덱스 => 컬럼 명으로 생성
 
-![image-20210711211440949](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711211440949.png)
+![image-20210711211440949](picture/image-20210711211440949.png)
 
 ---
 
@@ -55,7 +55,7 @@
 - 데이터 분석을 위해, dataframe을 생성하는 가장 일반적인 방법
 - pandas.read_csv 함수 사용해서  csv(comma separated values) 파일로부터 DataFrame 생성
 
-![image-20210711211952286](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711211952286.png)
+![image-20210711211952286](picture/image-20210711211952286.png)
 
 ---
 
@@ -67,7 +67,7 @@
     - usecols를 사용할 경우 usecols 존재하는 항목만 사용 가능
  - usecols : 실제로 dataframe에 로딩할 columns만 설정
 
-![image-20210711212742558](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711212742558.png)
+![image-20210711212742558](picture/image-20210711212742558.png)
 
 ---
 
@@ -85,11 +85,11 @@
   - 각각의 특성(feature)을 나타냄
   - 복잡한 데이터의 경우, 멀티 컬럼으로 표현 가능
 
-![image-20210711213135709](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711213135709.png)
+![image-20210711213135709](picture/image-20210711213135709.png)
 
-![image-20210711213420423](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711213420423.png)
+![image-20210711213420423](picture/image-20210711213420423.png)
 
-![image-20210711213521089](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711213521089.png)
+![image-20210711213521089](picture/image-20210711213521089.png)
 
 ---
 
@@ -101,9 +101,9 @@
 - describe 함수 - 숫자형 데이터의 통계치 계산
 - info 함수 - 데이터 타입, 각 아이템의 개수 등 출력
 
-![image-20210711213716387](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711213716387.png)
+![image-20210711213716387](picture/image-20210711213716387.png)
 
-![image-20210711213757038](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711213757038.png)
+![image-20210711213757038](picture/image-20210711213757038.png)
 
 ---
 
@@ -116,7 +116,7 @@
   - 관련속성 : df.T
   - 전치를 해도 DataFrame 속성유지 및 원본 데이터는 변환되지 않
 
-![image-20210711213924914](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711213924914.png)
+![image-20210711213924914](picture/image-20210711213924914.png)
 
 ---
 
@@ -125,7 +125,7 @@
 - 열추가 : df[열이름(key)]=values
 - 열 내용 갱신 : df[열이름(key)]=values
 
-![image-20210711214316232](C:\Users\USER-PC\Desktop\Study\Python_panadas\picture\image-20210711214316232.png)
+![image-20210711214316232](picture/image-20210711214316232.png)
 
 ---
 
