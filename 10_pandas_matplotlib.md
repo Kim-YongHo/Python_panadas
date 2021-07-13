@@ -63,7 +63,7 @@ else:
 - 데이터가 시간, 순서 등에 따라 변화를 보여주기 위해 사용
 
 
-   
+
 - show()
     - 각화명령(그래프 그리는 함수) 후 실제로 차트로 렌더링 하고 마우스 이벤트등의 지시를 기다리는 함수
     - 주피터 노트북 에서는 셀 단위로 플롯 명령을 자동으로 렌더링  주므로 show 명령이 필요 없지만
@@ -91,3 +91,32 @@ else:
    *  markeredgecolor:mec(마커선색깔)
    *  markeredgewidth:mew(마커선굵기)
    *  markerfacecolor:mfc(마커내부색깔)
+
+---
+
+
+
+## 그래프 정리
+
+![image-20210713102522348](picture/image-20210713102522348.png)
+
+---
+
+
+
+## 주요기능
+
+- marker : 마커의 종류
+- markersize(ms) : 마커의 크기
+- markeredgecolor(mec) : 마커 선 색깔
+- markeredgewidth(mew) : 마커 선 굵기
+- markerfacecolor(mfc) : 마커 내부 색깔
+
+
+
+![image-20210713102548572](picture/image-20210713102548572.png)
+
+![image-20210713102610314](picture/image-20210713102610314.png)
+
+![image-20210713102625028](picture/image-20210713102625028.png)
+
